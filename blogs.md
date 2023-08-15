@@ -8,23 +8,23 @@ title: Blogs
 
 ### 2023
 
-- [关于数学建模竞赛](https://Zqwang.com/blogs/team2023)
-- [极简风个人网站搭建指南](https://Zqwang.com/blogs/web)
+- [关于数学建模竞赛](https://Zqwangmath.github.com/blogs/team2023)
+- [极简风个人网站搭建指南](https://Zqwangmath.github.com/blogs/web)
 
 ### 2022
 
-- [20岁，宽心且看月中桂](https://Zqwang.com/blogs/20yrs)<br>
-- [Cambridge 线上暑研回忆录](https://Zqwang.com/blogs/cambridge/)<br>
-- [暂停、暂停、暂停](https://Zqwang.com/blogs/stop/)
+- [20岁，宽心且看月中桂](https://Zqwangmath.github.com/blogs/20yrs)<br>
+- [Cambridge 线上暑研回忆录](https://Zqwangmath.github.com/blogs/cambridge/)<br>
+- [暂停、暂停、暂停](https://Zqwangmath.github.com/blogs/stop/)
 
 ### 2021
 
-- [19岁，山高路亦远](https://Zqwang.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://Zqwang.com/blogs/star)
+- [19岁，山高路亦远](https://Zqwangmath.github.com/blogs/19yrs)<br>
+- [星野学社实习回忆录](https://Zqwangmath.github.com/blogs/star)
 
 ### 2020
 
-- [18岁，缓慢受锤的黄金年代](https://Zqwang.com/blogs/18yrs)<br>
+- [18岁，缓慢受锤的黄金年代](https://Zqwangmath.github.com/blogs/18yrs)<br>
 - [本科博客，笔记，回忆录](https://mieclance.club/)
 
 <br>
