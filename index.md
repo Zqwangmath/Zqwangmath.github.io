@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Zq wang (Lance, [Zqwang](https://Zqwang.com/file/Zqwang简历.pdf))**.
+Here is **Zq wang (Lance, [Zqwang](https://Zqwangmath.github.com/file/Zqwang简历.pdf))**.
 
 I am a senior student majoring in **Automation** at HF normal University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
