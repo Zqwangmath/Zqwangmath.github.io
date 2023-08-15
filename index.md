@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Zqwangmath.github.io/profile.jpg" class="floatpic" width="360" height="480">
+<img src="https://Zqwangmath.github.io/images/profile.jpg" class="floatpic" width="360" height="480">
 
 Here is **Zhiqiang Wang(王志强)**.
 
@@ -14,14 +14,14 @@ Here is **Zhiqiang Wang(王志强)**.
 
 **知乎**：[凯淼淼]([(5 封私信) 凯淼淼 - 知乎 (zhihu.com)](https://www.zhihu.com/people/174562/posts))
 
-**Email**：[NKUmathKay@163.com](NKUmathKay@163.com)
+**Email**：[brucewang2173@outlook.com](brucewang2173@outlook.com)
 
 以下本面的内容如果侵犯了您的权益，可以通过邮箱或QQ联系我
 
 ## 教育经历
 
 - **2021.09——至今** <u>南开大学 数学(省身班)</u>
-- **2018.09——2021.06** <u>湖北省襄阳市第五中学</u>
+- **2015.09——2019.06** <u>安徽省安庆市第九中学</u>
 
 # Notes
 
