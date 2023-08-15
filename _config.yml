@@ -37,18 +37,18 @@ links:
   - title: Resume
     url: /file/CV-HanlinCAI.pdf
   - title: Publications
-    url: /Mypublications/
+    url: /publications/
   - title: Awards
-    url: /Myawards/
+    url: /awards/
   - title: Fundings
-    url: /Myfundings/
+    url: /fundings/
   - title: Hobbies
-    url: /Myhobbies/
-  - title: Blogs
-    url: /Myblogs/
+    url: /hobbies/
+  - title: MyBlogs
+    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Anhui
+timezone: China/Beijing
 future: true
 highlighter: rouge
 # markdown: kramdown
