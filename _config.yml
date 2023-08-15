@@ -4,7 +4,7 @@ description: What I cannot create, I do not understand.
 Tous pour un,un pour tous
 This is personal website for notes and blogs.
 #Comment out url when working locally to resolve base urls correctly
-url: https://Zqwangmath.github.com
+url: https://Zqwangmath.github.io
 
 # Owner/author information
 owner:
@@ -16,7 +16,7 @@ owner:
   twitter:
   # facebook: caihanlin2002
   github: Zqwangmath
-  linkedin: 
+  linkedin:
   scholar:
   # instagram: lancecai2002
   # lastfm:
