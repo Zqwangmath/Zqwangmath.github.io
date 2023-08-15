@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://Zqwangmath.github.io/profile.jpg" class="floatpic" width="360" height="480">
 
-Here is **Kai Zhu(朱凯)**.
+Here is **Zhiqiang Wang(王志强)**.
 
 我是南开大学2021级数学省身班的学生，目前兴趣方向是**几何与拓扑**
 
