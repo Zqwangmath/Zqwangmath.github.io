@@ -1,7 +1,7 @@
 ---
 layout: page
 permaZqwangk: /blogs/index.html
-title: Blogs
+title: MyBlogs
 ---
 
 ## Chinese Blogs
