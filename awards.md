@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: MyAwards
+title: Awards
 ---
 
 ## Scholarships
