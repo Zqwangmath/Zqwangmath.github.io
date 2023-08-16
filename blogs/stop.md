@@ -61,8 +61,7 @@ title: stop
 <br>而我猜，是不是正因一些的“暂停”，导致另一些的“无法暂停”？会不会是因为年轻人们只能局限在那方天地，导致内化出了这种路径、这套标准，这同样的结局。
 
 <br>我不确信我猜的对不对，我只确信我的时间是不会停的。
-
-<br>![keyibugaoqing](stop.assets/0502.jpg)
+> <br>![keyibugaoqing](stop.assets/0502.jpg)
 
 <br>
 
