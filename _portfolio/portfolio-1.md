@@ -1,9 +1,10 @@
 ---
 title: "Notes"
-excerpt: "这里整理了我的一些数学学习笔记"
+excerpt: "这里存放了我的一些数学学习笔记"
 collection: portfolio
 ---
 
+<!--
 ## **注**：部分手写笔记较大，以百度网盘形式上传，提取码均为**ZK03**
 
 ### 省身班部分试题解答
@@ -119,3 +120,4 @@ collection: portfolio
   - GH收敛Notes[(基于江文帅老师短期课程)](https://mmkaymath.github.io/KaiZhu.github.io/file/GAnotes.pdf)
 
 - #### 几何群论
+-->

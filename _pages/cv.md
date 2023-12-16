@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!--
 ## 教育经历
 
 - **2024.02——2024.06** <u>BICMR第16期强化班</u>
@@ -102,3 +102,4 @@ redirect_from:
 ## 2023年秋
 
 - **复几何讨论班** [讨论班主页](https://github.com/MmKayMath/KaiZhu.github.io/blob/main/ComplexGeometry2023.md)
+-->
