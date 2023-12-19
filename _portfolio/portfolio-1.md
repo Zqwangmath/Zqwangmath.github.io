@@ -8,7 +8,7 @@ collection: portfolio
 
 ## 他人的笔记或主页
 
-* 撸题猫[(update time：2023.11.5)](https://Zqwangmath.github.io/files/高等代数题型总结.pdf)
+* 撸题猫[(update time：2023.11.5)](https://lovepde.life/files/高等代数题型总结.pdf)
 
 <!--
 ## **注**：部分手写笔记较大，以百度网盘形式上传，提取码均为**ZK03**
