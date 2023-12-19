@@ -8,7 +8,7 @@ collection: portfolio
 
 ## 他人的笔记或主页
 
-* 撸题猫[(update time：2023.11.5)](https://Zqwangmath.github.io/Zqwangmath.github.io/file/数学分析题型总结.pdf)
+* 撸题猫[(update time：2023.11.5)](https://github.com/Zqwangmath/Zqwangmath.github.io/blob/main/files/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93.pdf)
 
 <!--
 ## **注**：部分手写笔记较大，以百度网盘形式上传，提取码均为**ZK03**
