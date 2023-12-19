@@ -4,6 +4,12 @@ excerpt: "这里存放了我的一些数学学习笔记"
 collection: portfolio
 ---
 
+## **注**：部分笔记较大，以百度网盘形式上传，提取码均为**ZK03**
+
+## 他人的笔记或主页
+
+* 撸题猫[(update time：2023.11.5)](https://Zqwangmath.github.io/Zqwangmath.github.io/file/数学分析题型总结.pdf)
+
 <!--
 ## **注**：部分手写笔记较大，以百度网盘形式上传，提取码均为**ZK03**
 
