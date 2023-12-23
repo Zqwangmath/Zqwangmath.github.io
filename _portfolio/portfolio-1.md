@@ -1,6 +1,6 @@
 ---
 title: "Notes"
-excerpt: "这里存放了我的一些数学学习笔记"
+excerpt: "这里存放了我和别人的一些数学学习笔记"
 collection: portfolio
 ---
 
