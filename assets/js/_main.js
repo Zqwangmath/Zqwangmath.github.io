@@ -99,6 +99,6 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 var message_Path = '/Live2dHistoire/live2d/';
-var home_Path = 'https://lovepde.life/'
-{/* var talkAPI = auxiliaryHost+"/talk.php"; */}
+
+var talkAPI = auxiliaryHost+"/talk.php";
 </script>
