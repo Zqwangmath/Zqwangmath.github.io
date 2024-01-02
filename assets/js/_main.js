@@ -97,5 +97,7 @@ $(document).ready(function(){
 
 });
 
+<script>
 var message_Path = '/Live2dHistoire/live2d/';
 var talkAPI = auxiliaryHost+"/talk.php";
+</script>
