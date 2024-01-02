@@ -97,8 +97,6 @@ $(document).ready(function(){
 
 });
 
-<script type="text/javascript">
-var message_Path = '/Live2dHistoire/live2d/';
 
-var talkAPI = auxiliaryHost+"/talk.php";
-</script>
+var message_Path = '/Live2dHistoire/live2d/';
+var talkAPI = "http://api.qingyunke.com/api.php";
