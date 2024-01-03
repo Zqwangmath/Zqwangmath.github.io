@@ -98,5 +98,5 @@ $(document).ready(function(){
 });
 
 
-// var message_Path = '/Live2dHistoire/live2d/';
-// var talkAPI = "http://api.qingyunke.com/api.php";
+var message_Path = '/Live2dHistoire/live2d/';
+var talkAPI = "http://api.qingyunke.com/api.php";
